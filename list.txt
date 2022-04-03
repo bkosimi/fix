@@ -5,3 +5,6 @@ more items
 music
 video
 just typing
+new changes
+it's working now
+yay SSH key connected
